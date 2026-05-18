@@ -4,7 +4,7 @@
 
 <br/>
 
-**e e** &nbsp;·&nbsp; cs student &nbsp;·&nbsp; hyderabad
+**mighty-baseplate** &nbsp;·&nbsp; cs student &nbsp;·&nbsp; 
 
 building computer vision pipelines, android apps, and web tools.  
 running hyprland on arch. currently into cloud infra and kernel internals.
