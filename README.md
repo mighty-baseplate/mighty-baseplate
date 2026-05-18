@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=620&lines=CS+undergrad+%40+KL+University;ML+%7C+Android+%7C+TypeScript+%7C+Linux;Arch+btw" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=620&lines=ML+%7C+Android+%7C+TypeScript+%7C+Linux;Arch+btw" alt="Typing SVG" />
 </div>
 
 <br/>
 
-Building Android apps, computer vision pipelines, and web tools — while obsessively tuning a Hyprland setup. Prepping for GATE on the side.
+Building Android apps, computer vision pipelines, and web tools — while obsessively tuning a Hyprland setup.
 
 **Stack**
 
@@ -20,7 +20,6 @@ Building Android apps, computer vision pipelines, and web tools — while obsess
 
 | Project | Stack | What it does |
 |---|---|---|
-| [kulpakji-app](https://github.com/mighty-baseplate/kulpakji-app) | Kotlin | Android application |
 | [Real-Time-Person-Tracker](https://github.com/mighty-baseplate/Real-Time-Person-Tracker) | Python | Live person detection from webcam feed |
 | [Face-tracking](https://github.com/mighty-baseplate/Face-tracking) | Python | Real-time face tracking |
 | [Roleplay-Simulator](https://github.com/mighty-baseplate/Roleplay-Simulator) | TypeScript | Interactive AI-powered roleplay chat |
@@ -32,7 +31,7 @@ Building Android apps, computer vision pipelines, and web tools — while obsess
 
 **Currently into**
 
-- Optimization algorithms — Conjugate Gradient, LPP, QPP (GATE prep)
+- Optimization algorithms — Conjugate Gradient, LPP, QPP
 - Cloud infra on GCP
 - Kernel internals and OS architecture
 
